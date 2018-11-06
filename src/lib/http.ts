@@ -1,5 +1,4 @@
 import axios from 'axios';
-import xss from './xss'
 
 
 let axiosIns = axios.create({});

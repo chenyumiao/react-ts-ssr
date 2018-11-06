@@ -2,7 +2,6 @@ import * as React from 'react';
 import { Route } from 'react-router-dom';
 import List from './containers/List';
 import Detail from './containers/Detail';
-import Loadable from 'react-loadable';
 //import * as Loading from './Loading';
 
 
